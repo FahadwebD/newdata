@@ -1,0 +1,76 @@
+[
+    {   "id":1,
+        "name":"Ashtema",
+        "img":"https://i.ibb.co/ZdfkHnX/difficulty-breathing.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "why":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+        "what":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        
+    },
+    {   
+        "id":2,
+        "name":"Cancer",
+        "img":"https://i.ibb.co/hfShQj0/purple-ribbon.png",
+        "title":"Ground-breaking treatments. Kid-friendly care.",
+         "why":"The Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta is one of the largest pediatric cancer and blood disorders programs in the country. We care for children and young adults with a wide range of cancer and blood disorders—from the most common to those rarely seen outside of the top centers.",
+         "what":"Our team is committed to meeting each child’s unique need. That way, we can develop a specialized treatment plan that cares for the whole child and the whole family. Combining the latest proven technology and research with a caring, child-friendly approach, makes the Aflac Cancer and Blood Disorders Center a top choice for pediatric oncology and hematology treatment. For this reason, it is consistently ranked among the top ten hospitals in the nation for pediatric cancer care by U.S. News & World Report NextPrevious"
+
+    },
+    {   
+        "id":3,
+        "name":"Concussion",
+        "img":"https://i.ibb.co/pXcHbG1/mindset.png",
+        "title":"Safely getting your child back to sports, school and play.",
+        "why":"If you suspect your child has a concussion, talk to your child’s doctor. All head injuries should be taken seriously. In case of an urgent concern or emergency, call 911 or go to the nearest emergency department right away.If your child is participating in a sport at the time of injury, take him out of the game or practice. Your child should avoid activities that put him at risk for another head injury soon after the first one. A child should recover and be completely symptom-free at rest and with physical exertion before returning to sports or other activities. Before a youth athlete can return to play, he must be cleared by a healthcare provider trained in the management of concussions.",
+        "what":"A concussion is an injury to the brain. It can be caused by a blow or bump to or around the head. This causes the brain to move inside the skull, which can change how the brain works or processes information.It’s estimated that 1.6 to 3.8 million concussions occur every year—many of those go unreported or unnoticed .Boys and girls respond differently to concussions. On average, girls take a few days longer to recover than boys. Younger athletes typically take longer to recover from concussions than older athletes. Of any sport, football carries the highest risk of concussion. Next is soccer and basketball. As lacrosse grows in popularity, it may account for a significant number of concussions as well."
+
+    },
+    {   
+        "id":4,
+        "name":"Diabetes",
+        "img":"https://i.ibb.co/mhQY5xM/diabetes-test.png",
+        "title":"Here to help your child manage diabetes with expertise, tools and support.",
+        "why":"Because diabetes is a chronic, complex condition and usually a lifelong disease that affects the whole body, our team at Children’s Healthcare of Atlanta works with a number of specialists when needed to provide coordinated, comprehensive care. We also draw from resources and services across Children’s and throughout the community to give you and your child all the care and support you need.",
+        "what":"Diabetes is a disease that occurs when your child’s blood glucose, also known as blood sugar, is too high. Blood glucose is the body’s main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy."
+
+    },
+    {   
+        "id":5,
+        "name":"Neurology",
+        "img":"https://i.ibb.co/KKcDtTm/neurology.png",
+        "title":"We are transforming advancements in pediatric neurology.",
+        "why":"Pediatric neurology is the study of neurological conditions in neonates, infants, children and teens. A pediatric neurologist is a doctor who takes care of early brain health and treats children who have problems with their nervous system—the brain, spine, nerves and muscles—which can lead to problems like seizures, headaches or developmental delays in kids.",
+        "what":"Children’s has teamed up with Emory University, Georgia Institute of Technology and Morehouse School of Medicine to form the Children’s Center for Neurosciences Research. The shared goal of this consortium is to find leading-edge therapies for children with brain and spine conditions to transform care and improve outcomes.As one of the largest pediatric neurology programs in the country, paired with some of the brightest minds in pediatric neurosciences research, Children’s is dedicated to seeking preventive, diagnostic and wellness strategies for children with serious medical illnesses or challenges. Caring for more pediatric neurological patients than any other hospital in the country, we are committed to the study of brain tumors and traumatic injuries as well as the psychological and cognitive aspects of disease and injury. Our dedication to pediatric neurology, developing innovative treatments for tomorrow and improving outcomes for kids are just a few of the many reasons why our neurology program continually ranks among the top in the nation."
+       
+    },
+    
+    {   
+        "id":6,
+        "name":"Surgary",
+        "img":"https://i.ibb.co/Pwp64HC/surgery-tools.png",
+        "title":"Your child is safe in our skilled, compassionate hands.",
+        "why":"Evidence has shown that children do better when their surgical team specializes in caring for kids. When you walk through our doors, you can take comfort knowing our entire staff, from pre-surgery nurses and technicians to pediatric anesthesiologists and surgeons, has been specially trained to care for your child. Not only that, we perform more pediatric surgeries on kids and teens than any other hospital in Georgia.* Our team understands how to keep kids and teens safe during surgery. Our physicians are leaders in research efforts to improve outcomes and help kids recover better after surgery. We work with specialists from many different areas to create guidelines for kids and teens who need surgery. These guidelines have helped us reduce complications, better manage post-surgery pain and get kids home sooner.",
+        "what":"There are key differences in the size and shape of the airway that can make intubation (inserting a breathing tube before surgery) in children more difficult. It’s important to have a pediatric-trained anesthesiologist who knows how to safely provide sleep medicine for each patient. Keeping your child safe and comfortable during and after surgery takes a team that specializes in anesthesiology for kids and teens. At Children’s, your child is guaranteed a pediatric-trained anesthesiologist. Your child will have a member of our anesthesia care team during the entire procedure."
+     
+    },
+    {   
+        "id":7,
+        "name":"Orthopedics",
+        "img":"https://i.ibb.co/sRbdSY0/broken-leg.png",
+        "title":"Georgia’s only nationally ranked pediatric orthopedic program.",
+        "why":"Simply put, pediatric orthopedic specialists know children’s bodies. Kids aren’t just small adults. Their growing bones and different developmental stages pose different challenges. Pediatric specialists know what to look for, can anticipate problems and can work toward the best outcome with a system of care designed for your child or teen. They know how to deal with kids, teens and their families, and that’s one of the top reasons why children and teens with orthopedics injuries or illnesses shouldn’t be treated in an adult hospital. In fact, our team of pediatric specialists treats more broken bones for kids and teens than any other hospital in Georgia.* The pediatric orthopedic specialists at Children’s Healthcare of Atlanta also help educate parents on ways to help keep kids’ bones healthy. ",
+        "what":"As one of the leading pediatric orthopedic programs in the country, we specialize in medical and surgical treatment of conditions and injuries of the musculoskeletal system—the bones, joints, muscles, tendons, ligaments and nerves. Specific conditions we treat include"
+        
+    },
+    
+    {   
+        "id":8,
+        "name":"Emergency Health",
+        "img":"https://i.ibb.co/NpwHyhx/siren.png",
+        "title":"Because kids need care on weekends and holidays too.",
+        "why":"Children are not small adults. Unlike most urgent care centers and retail clinics, our pediatric Urgent Care Centers have doctors and nurses who are specially trained to diagnose and treat your growing child or teen. Our doctors can communicate directly with your child’s doctor, informing him or her of any test results or procedures that were performed so the doctor can update your child’s medical records and provide follow-up care, if needed.Our pediatric Urgent Care Centers offerA pediatrician on staff Staff specially trained to diagnose and treat children from birth to 21 years old Walk-in hours seven days a week, including evenings and holidays Lab and X-ray services to quickly diagnose your child’s minor illnesses and injuries with up to 50 percent less radiation than some adult facilities Fracture care for growing bones, with access to pediatric orthopedic specialists Access to the Children’s network of doctors and pediatric specialists Electronic submission of prescriptions to your pharmacy Online scheduling, allowing you to pick a time to arrive and begin the check-in process",
+        "what":"At our pediatric Urgent Care Centers, no appointment is necessary, and walk-ins are welcome. We’re open seven days a week, including evenings and holidays.Monday-Friday: 11 a.m. to 9 p.m. Saturday and Sunday: 9 a.m. to 9 p.m. Holidays: 9 a.m. to 7 p.m.Holidays include New Year’s Day, Memorial Day, Fourth of July, Labor Day, Thanksgiving and Christmas.Hours may be affected by unanticipated circumstances. Check this webpage for real-time updates."
+       
+    }
+
+]
